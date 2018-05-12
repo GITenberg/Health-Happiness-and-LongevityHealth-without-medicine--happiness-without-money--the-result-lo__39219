@@ -1,0 +1,29 @@
+_repo: Health-Happiness-and-LongevityHealth-without-medicine--happiness-without-money--the-result-lo__39219
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCarty, Louis Philippe
+    birthdate: 1826
+    deathdate: 1908
+    gutenberg_agent_id: '39901'
+    url: http://www.gutenberg.org/2009/agents/39901
+description: ''
+gutenberg_issued: '2012-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39219'
+  lccn: 08004216
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Hygiene'
+title: 'Health, Happiness, and Longevity
+
+  Health without medicine: happiness without money: the result, longevity'
+url: http://www.gutenberg.org/ebooks/39219
